@@ -1,3 +1,0 @@
-java	lab5	15-12-2023
-Dota	play 10 mms	16-12-2023
-repair	repair	11-12-2023
